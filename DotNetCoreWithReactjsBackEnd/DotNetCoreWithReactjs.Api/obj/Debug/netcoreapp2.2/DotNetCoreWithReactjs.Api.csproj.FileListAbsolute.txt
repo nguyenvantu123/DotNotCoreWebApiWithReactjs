@@ -1,0 +1,14 @@
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\bin\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.deps.json
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\bin\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.runtimeconfig.json
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\bin\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.runtimeconfig.dev.json
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\bin\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.dll
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\bin\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.pdb
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.csproj.CoreCompileInputs.cache
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.RazorAssemblyInfo.cache
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.RazorAssemblyInfo.cs
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.AssemblyInfoInputs.cache
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.AssemblyInfo.cs
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.RazorTargetAssemblyInfo.cache
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.dll
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.pdb
+C:\Users\tungy\source\repos\DotNetCoreWithReactjs\DotNetCoreWithReactjs.Api\obj\Debug\netcoreapp2.2\DotNetCoreWithReactjs.Api.csprojAssemblyReference.cache
